@@ -3,7 +3,7 @@ This is a company reference document containing all relevant up to data informat
 ----
 COMPANY NAME: Equity Group Holdings
 COMPANY DESCRIPTION: Equity Group Holdings is a leading financial services company in Kenya. It offers a range of banking and financial services to consumers and businesses.
-COMPANY TOKEN NAME: Equity Group Holdings
+COMPANY TOKEN NAME: EQTY
 TOKENIZED SUPPLY: 10B
 
 ---

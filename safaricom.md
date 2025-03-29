@@ -3,7 +3,7 @@ This is a company reference document containing all relevant up to data informat
 ----
 COMPANY NAME: Safaricom
 COMPANY DESCRIPTION: Safaricom PLC is a leading telecommunications company in Kenya. It provides mobile services, data, and voice solutions to consumers and businesses.
-COMPANY TOKEN NAME: Safaricom
+COMPANY TOKEN NAME: SAFARICOM
 TOKENIZED SUPPLY: 10B
 
 ---
